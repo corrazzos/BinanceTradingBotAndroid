@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Gradle wrapper
+echo 'Gradle Wrapper'
